@@ -38,9 +38,10 @@
 # Status
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaoOliveira&show_icons=true&theme=onedark)
+<img loading='lazy' height='180em' src="https://github-readme-stats.vercel.app/api?username=JaoOliveira&show_icons=true&theme=onedark"> <img loading='lazy' height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark">
 
  <div align="center"> 
+   <img >
   <a href="https://instagram.com/Jao0liveira16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-oliveira-6517411bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
